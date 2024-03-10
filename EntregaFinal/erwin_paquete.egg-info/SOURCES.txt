@@ -1,0 +1,8 @@
+setup.py
+erwin_paquete.egg-info/PKG-INFO
+erwin_paquete.egg-info/SOURCES.txt
+erwin_paquete.egg-info/dependency_links.txt
+erwin_paquete.egg-info/top_level.txt
+mi_paquete/__init__.py
+mi_paquete/fechas.py
+mi_paquete/funcionalidades.py
